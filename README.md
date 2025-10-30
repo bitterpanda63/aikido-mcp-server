@@ -27,7 +27,7 @@ AIKIDO_CLIENT_SECRET=
 AIKIDO_CLIENT_ID=
 ```
 
-Get your credentials from the [Aikido Settings](https://app.aikido.dev/settings/api)
+Get your credentials from the [Aikido Settings](https://app.aikido.dev/settings/integrations/api/aikido/rest)
 
 ## Usage
 
